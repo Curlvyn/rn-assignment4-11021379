@@ -42,3 +42,6 @@ This project is a mobile app developed for the DCIT202 Mobile Application Develo
 
 ### TextInput
 - **Purpose**: A component for inputting text into the application. Can handle various types of text inputs and provides a range of customization options.
+
+
+### Screenshot
