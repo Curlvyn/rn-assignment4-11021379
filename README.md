@@ -1,5 +1,4 @@
-![Screenshot 1](https://github.com/Curlvyn/rn-assignment4-11021379/assets/170081196/75f8d091-b6ae-4594-bb28-9506a0d56cb9)# rn-assignment4-11021379
-
+# ID NUMBER: 11021379
 ## Description
 This project is a mobile app developed for the DCIT202 Mobile Application Development course. It includes a login screen where users can enter their name and email, and a home screen that displays job listings. The app is built with React Native and matches the provided UI design.
 
