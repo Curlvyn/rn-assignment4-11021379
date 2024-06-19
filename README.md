@@ -6,15 +6,12 @@ This project is a mobile app developed for the DCIT202 Mobile Application Develo
 
 ### LoginScreen
 - **Purpose**: Allows users to enter their name and email. When the login button is clicked, it navigates to the HomeScreen and passes the name and email.
-- **File**: `src/screens/LoginScreen.js`
 
 ### HomeScreen
 - **Purpose**: Displays the user's name and email received from the LoginScreen. It also shows lists of popular and featured job cards.
-- **File**: `src/screens/HomeScreen.js`
 
 ### JobCard
 - **Purpose**: A component that displays job details such as title, company, and location. Used in the HomeScreen to render job listings.
-- **File**: `src/components/JobCard.js`
 
 ## Important React Native Components
 
