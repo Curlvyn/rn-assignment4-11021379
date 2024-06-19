@@ -1,4 +1,4 @@
-# rn-assignment4-11021379
+![Screenshot 1](https://github.com/Curlvyn/rn-assignment4-11021379/assets/170081196/75f8d091-b6ae-4594-bb28-9506a0d56cb9)# rn-assignment4-11021379
 
 ## Description
 This project is a mobile app developed for the DCIT202 Mobile Application Development course. It includes a login screen where users can enter their name and email, and a home screen that displays job listings. The app is built with React Native and matches the provided UI design.
@@ -44,4 +44,9 @@ This project is a mobile app developed for the DCIT202 Mobile Application Develo
 - **Purpose**: A component for inputting text into the application. Can handle various types of text inputs and provides a range of customization options.
 
 
-### Screenshot
+### Screenshot 1
+![Screenshot 1](https://github.com/Curlvyn/rn-assignment4-11021379
+![Sreenshot 2](https://github.com/Curlvyn/rn-assignment4-11021379/assets/170081196/989c82f3-4a80-42a5-a8e3-53e90b8c0934)
+/assets/170081196/67a737e6-911f-4f4d-8c4c-8b2bdae17c0e)
+
+
